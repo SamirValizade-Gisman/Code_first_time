@@ -5,3 +5,5 @@ while a < 100:
     if a % 5 == 0:
         b.append(a)
 print(b)
+
+#GISMAN
